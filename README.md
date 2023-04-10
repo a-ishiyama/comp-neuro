@@ -2,8 +2,12 @@
 
 Author: Akira Ishiyama
 
-The Jupyter Notebook contains python codes that were written as part of the module 'Computational Cognitive Neuroscience'.
+This is a repo for the individual project of the module 'Computational Cognitive Neuroscience".
 
-The codes were written to replicate the findings from the paper written by Andrea D’Olimpio for his Master by Research in the Seri’es’ Lab.
+The report is on modelling behavioural impairments during a probabilistic reversal learning task, inspired by an experiment carried out by Andrea D’Olimpio for his Master by Research in the Series’ Lab.
 
-For more information, please refer to the pdf file in this repo.
+It explores whether anxiety leads people to differ in how they learn to predict adverse events in the future.
+
+The Jupyter Notebook contains python codes that were written to simulate the neural model.
+
+For more information, please refer to the .pdf file in this repo titled "report.pdf".
